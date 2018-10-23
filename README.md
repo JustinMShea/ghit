@@ -1,12 +1,4 @@
-This package is now deprecated.
 
-No further updates will be made here or sent to CRAN.
-
-Please use [**remotes**](https://cran.r-project.org/package=remotes) instead.
-
-
-
----
 
 # ghit: Lightweight GitHub Package Installer
 
